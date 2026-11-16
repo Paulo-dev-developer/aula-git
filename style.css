@@ -159,3 +159,4 @@ transition: all 0.3s ease;
 /* INFORMACOES: cria uma grade para posicionar os dois cartões lado a lado. */
 .informacoes{
     display: grid;
+    grid-template-columns: repeat(2, 1fr);
