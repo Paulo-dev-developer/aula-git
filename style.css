@@ -15,3 +15,5 @@ body{
     display: flex;
     /* Centraliza o conteúdo horizontalmente. */
     justify-content: center;
+    /* Centraliza o conteúdo verticalmente. */
+    align-items: center;
