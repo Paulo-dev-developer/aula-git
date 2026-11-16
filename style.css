@@ -118,3 +118,4 @@ p{
 
 /* BTN: transforma o link em um botão visual. */
 .btn{
+display: flex;
