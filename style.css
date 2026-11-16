@@ -148,3 +148,6 @@ transition: all 0.3s ease;
     max-width: 1000px;
     text-align: center;
 }
+
+/* H2 DA SEÇÃO: estiliza o título “O que é Git e GitHub”. */
+.conteudo h2{
