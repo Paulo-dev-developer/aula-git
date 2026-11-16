@@ -38,3 +38,6 @@ body::before, body::after{
     filter: blur(80px);
     z-index: 0;
 }
+
+/* PRIMEIRA MANCHA: decoração vermelha no fundo. */
+body::before{
