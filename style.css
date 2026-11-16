@@ -160,3 +160,4 @@ transition: all 0.3s ease;
 .informacoes{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
