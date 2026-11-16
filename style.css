@@ -43,3 +43,4 @@ body::before, body::after{
 body::before{
     /* Define fundo vermelho. */
     background: #dc2626;
+    top: 20%;
