@@ -17,3 +17,5 @@ body{
     justify-content: center;
     /* Centraliza o conteúdo verticalmente. */
     align-items: center;
+
+    overflow-x: hidden;
