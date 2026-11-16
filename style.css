@@ -190,3 +190,5 @@ transition: all 0.3s ease;
 .info-card p:last-child{
     margin-top: 0;
 }   
+    /* RESPONSIVIDADE: regras aplicadas quando a tela tem até 768px de largura. */
+    @media (max-width: 768px){
