@@ -121,3 +121,5 @@ p{
 display: flex;
 /* Centraliza o conteúdo verticalmente. */
 align-items: center;
+/* Centraliza o conteúdo horizontalmente. */
+justify-content: center;
