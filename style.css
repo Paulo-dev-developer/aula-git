@@ -178,3 +178,6 @@ transition: all 0.3s ease;
 
     border-color: #dc2626;
 }
+
+/* H3 DOS CARTÕES: estiliza os títulos Git e GitHub. */
+.info-card h3{
