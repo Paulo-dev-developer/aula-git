@@ -194,3 +194,4 @@ transition: all 0.3s ease;
     @media (max-width: 768px){
         /* INFORMACOES: cria uma grade para posicionar os dois cartões lado a lado. */
         .informacoes{
+            grid-template-columns: 1fr;
