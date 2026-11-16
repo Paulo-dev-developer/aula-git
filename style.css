@@ -125,3 +125,5 @@ align-items: center;
 justify-content: center;
 /* Define espaço entre os elementos internos do botão. */
 gap: 8px;
+/* Faz o botão ocupar toda a largura disponível. */
+width: 100%;
