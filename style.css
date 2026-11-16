@@ -141,3 +141,4 @@ transition: all 0.3s ease;
 
 /* CONTEUDO: organiza a seção que explica Git e GitHub. */
 .conteudo{
+    position: relative;
