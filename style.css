@@ -41,3 +41,5 @@ body::before, body::after{
 
 /* PRIMEIRA MANCHA: decoração vermelha no fundo. */
 body::before{
+    /* Define fundo vermelho. */
+    background: #dc2626;
