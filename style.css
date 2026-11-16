@@ -145,3 +145,4 @@ transition: all 0.3s ease;
     z-index: 1;
     /* Faz o botão ocupar toda a largura disponível. */
     width: 100%;
+    max-width: 1000px;
