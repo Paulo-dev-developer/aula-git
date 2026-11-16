@@ -205,3 +205,4 @@ transition: all 0.3s ease;
 
     /* INFO-CARD: aparência dos cartões Git e GitHub. */
     .info-card{
+        padding: 22px;
