@@ -162,3 +162,6 @@ transition: all 0.3s ease;
     grid-template-columns: repeat(2, 1fr);
     gap: 20px;
 }
+
+/* INFO-CARD: aparência dos cartões Git e GitHub. */
+.info-card{
