@@ -72,3 +72,7 @@ body::after{
 
     flex-shrink: 0;
 }
+
+
+/* CARD-HOVER: classe preparada para alterar o cartão quando receber essa classe. */
+.card-hover{
