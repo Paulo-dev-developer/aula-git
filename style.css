@@ -185,3 +185,6 @@ transition: all 0.3s ease;
     font-size: 1.4rem;
     margin-bottom: 15px;
 }
+
+/* ÚLTIMO PARÁGRAFO: seleciona o último p de cada cartão informativo. */
+.info-card p:last-child{
