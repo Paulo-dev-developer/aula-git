@@ -76,3 +76,4 @@ body::after{
 
 /* CARD-HOVER: classe preparada para alterar o cartão quando receber essa classe. */
 .card-hover{
+    transform: translateY(.5px);
