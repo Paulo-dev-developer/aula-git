@@ -49,3 +49,4 @@ body::before{
 
 /* SEGUNDA MANCHA: decoração azul no fundo. */
 body::after{
+    background: #2563eb;
