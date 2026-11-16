@@ -94,3 +94,6 @@ body::after{
     text-transform: uppercase;
     margin-bottom: 20px;
 }
+
+/* H1: estiliza o título principal. */
+h1{
