@@ -175,3 +175,5 @@ transition: all 0.3s ease;
 /* HOVER: estilos aplicados quando o ponteiro passa sobre um cartão. */
 .info-card:hover{
     transform: rotateY(.5px);
+
+    border-color: #dc2626;
