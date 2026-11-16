@@ -31,3 +31,4 @@ body{
 /* PSEUDOELEMENTOS: criam duas manchas decorativas sem adicionar HTML. */
 body::before, body::after{
     content: '';
+    position: absolute;
