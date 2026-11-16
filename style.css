@@ -83,3 +83,4 @@ body::after{
 /* BADGE: aparência da etiqueta “Aula GIT”. */
 .badge{
     display: inline-block;
+    background: rgba(248, 113, 113, 0.3);
