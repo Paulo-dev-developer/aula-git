@@ -53,3 +53,6 @@ body::after{
     bottom: 20%;
     right: 25%;
 }
+
+/* CARD: estiliza o cartão principal que contém o título e o link. */
+.card{
