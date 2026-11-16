@@ -192,3 +192,5 @@ transition: all 0.3s ease;
 }   
     /* RESPONSIVIDADE: regras aplicadas quando a tela tem até 768px de largura. */
     @media (max-width: 768px){
+        /* INFORMACOES: cria uma grade para posicionar os dois cartões lado a lado. */
+        .informacoes{
