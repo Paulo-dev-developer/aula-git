@@ -146,3 +146,4 @@ transition: all 0.3s ease;
     /* Faz o botão ocupar toda a largura disponível. */
     width: 100%;
     max-width: 1000px;
+    text-align: center;
