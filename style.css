@@ -138,3 +138,6 @@ box-shadow: 0 0 20px rgba(248, 113, 113, 0.35);
 /* Suaviza todas as propriedades que mudarem em 0,3 segundo. */
 transition: all 0.3s ease;
 }
+
+/* CONTEUDO: organiza a seção que explica Git e GitHub. */
+.conteudo{
