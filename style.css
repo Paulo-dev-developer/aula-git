@@ -169,3 +169,4 @@ transition: all 0.3s ease;
     border: 1px solid rgba(255, 255, 255, 0.12);
     border-radius: 18px;
     text-align: left;
+    transition: 0.3s ease;
