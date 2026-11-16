@@ -46,3 +46,6 @@ body::before{
     top: 20%;
     left: 25%;
 }
+
+/* SEGUNDA MANCHA: decoração azul no fundo. */
+body::after{
