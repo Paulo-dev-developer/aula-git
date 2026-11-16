@@ -202,3 +202,6 @@ transition: all 0.3s ease;
     .conteudo h2{
         font-size: 1.6rem;
     }
+
+    /* INFO-CARD: aparência dos cartões Git e GitHub. */
+    .info-card{
