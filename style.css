@@ -165,3 +165,4 @@ transition: all 0.3s ease;
 
 /* INFO-CARD: aparência dos cartões Git e GitHub. */
 .info-card{
+    background: rgba(255, 255, 255, 0.04);
