@@ -189,3 +189,4 @@ transition: all 0.3s ease;
 /* ÚLTIMO PARÁGRAFO: seleciona o último p de cada cartão informativo. */
 .info-card p:last-child{
     margin-top: 0;
+}   
