@@ -13,3 +13,5 @@ body{
     min-height: 100vh;
     /* Ativa Flexbox dentro do botão. */
     display: flex;
+    /* Centraliza o conteúdo horizontalmente. */
+    justify-content: center;
