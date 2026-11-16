@@ -200,3 +200,4 @@ transition: all 0.3s ease;
 
     /* H2 DA SEÇÃO: estiliza o título “O que é Git e GitHub”. */
     .conteudo h2{
+        font-size: 1.6rem;
