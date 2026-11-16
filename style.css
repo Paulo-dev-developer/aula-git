@@ -196,3 +196,7 @@ transition: all 0.3s ease;
         .informacoes{
             grid-template-columns: 1fr;
         }
+    
+
+    /* H2 DA SEÇÃO: estiliza o título “O que é Git e GitHub”. */
+    .conteudo h2{
