@@ -62,3 +62,4 @@ body::after{
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(16px);
     border: 1px solid rgba(255, 255, 255, 0.12);
+    padding: 40px 32px;
