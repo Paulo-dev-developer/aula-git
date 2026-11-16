@@ -143,3 +143,5 @@ transition: all 0.3s ease;
 .conteudo{
     position: relative;
     z-index: 1;
+    /* Faz o botão ocupar toda a largura disponível. */
+    width: 100%;
