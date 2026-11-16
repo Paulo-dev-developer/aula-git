@@ -123,3 +123,5 @@ display: flex;
 align-items: center;
 /* Centraliza o conteúdo horizontalmente. */
 justify-content: center;
+/* Define espaço entre os elementos internos do botão. */
+gap: 8px;
